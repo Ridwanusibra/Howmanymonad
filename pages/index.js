@@ -1,4 +1,4 @@
-import {import { useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
 
 export default function Home() {
@@ -48,4 +48,4 @@ export default function Home() {
       </div>
     </div>
   );
-        }
+}
